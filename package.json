@@ -1,27 +1,32 @@
 {
-  "name": "nhan-3-so-kimngannnnnn",
-  "version": "1.0.3",
-  "description": "kimngannnnnn",
+  "name": "phuonggggbinhhhh",
+  "version": "1.0.6",
+  "description": "Một thư viện giúp bạn tính tổng của 2 số bất kỳ",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kimngannnnnn/nhan-3-so-kimngannnnnn.git"
+    "url": "https://github.com/bolognesedog26/phuonggggbinhhhh.git"
   },
-  "keywords": [
-    "cacl"
-  ],
-  "author": "kimngannnnnn",
-  "license": "ISC",
   "dependencies": {
-    "@lananhxcnm130/lananh-async-storage": "0.0.1",
-    "tinhdv-face-api.js": "0.22.5",
-    "timsolonnhat-tinhs2cop": "1.0.2"
-  },
-  "bugs": {
-    "url": "https://github.com/kimngannnnnn/nhan-3-so-kimngannnnnn/issues"
-  },
-  "homepage": "https://github.com/kimngannnnnn/nhan-3-so-kimngannnnnn#readme"
+    "minhhang25-add-sub-ngon": "1.0.27",
+    "addd-subbbb-ngonnn": "1.0.5",
+    "trungbinhcong-khangan0837": "1.0.2",
+    "binhtrungcoooooonggg": "1.0.5",
+    "synnnn-thanhngoc44-sum": "1.0.4",
+    "binhphuong-bolognesedog26": "1.0.3",
+    "ngoclannnn-add-sub":"1.0.12",
+    "sub-addd-dispaly":"1.0.4"
+    },
+ "homepage": "https://github.com/bolognesedog26/phuonggggbinhhhh",
+  "keywords": [
+    "sum",
+    "add",
+    "tong",
+    "cong"
+  ],
+  "author": "bolognesedog26",
+  "license": "MIT"
 }
